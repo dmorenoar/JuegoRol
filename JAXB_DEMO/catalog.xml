@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="file:/C:/Users/dani/Documents/NetBeansProjects/JAXB_DEMO/libros.xml" uri="xml-resources/jaxb/libreria/libros.xml"/>
+    <system systemId="file:/C:/Users/dani/Documents/NetBeansProjects/JAXB_DEMO/libros.xsd" uri="xml-resources/jaxb/libreria/libros.xsd"/>
+</catalog>
